@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\bin\Debug\net6.0\Masala_2.exe
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\bin\Debug\net6.0\Masala_2.deps.json
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\bin\Debug\net6.0\Masala_2.runtimeconfig.json
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\bin\Debug\net6.0\Masala_2.dll
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\bin\Debug\net6.0\Masala_2.pdb
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.dll
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\refint\Masala_2.dll
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.pdb
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\Masala_2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Loops\Loops\Masala_2\obj\Debug\net6.0\ref\Masala_2.dll
